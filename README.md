@@ -4,7 +4,7 @@
 
 **I build reliable data platforms and self-healing cloud infrastructure, then explain them clearly.**
 
-![Open to work](https://img.shields.io/badge/Open%20to-Data%20%26%20Cloud%20Engineering%20Roles-2ea44f?style=for-the-badge) ![Remote](https://img.shields.io/badge/Remote-Available-0A66C2?style=for-the-badge) ![Upwork](https://img.shields.io/badge/Upwork-Freelancer-14a800?style=for-the-badge&logo=upwork&logoColor=white) [![X](https://img.shields.io/badge/X-@IsaacTonyloi-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/IsaacTonyloi) ![Profile views](https://komarev.com/ghpvc/?username=isaactony&style=for-the-badge&color=blueviolet)
+![Open to work](https://img.shields.io/badge/Open%20to-Data%20%26%20Cloud%20Engineering%20Roles-2ea44f?style=for-the-badge) ![Remote](https://img.shields.io/badge/Remote-Available-0A66C2?style=for-the-badge) ![Upwork](https://img.shields.io/badge/Upwork-Freelancer-14a800?style=for-the-badge&logo=upwork&logoColor=white) [![X](https://img.shields.io/badge/X-@IsaacTonyloi-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/IsaacTonyloi) ![Followers](https://img.shields.io/github/followers/isaactony?style=for-the-badge&logo=github&label=Followers) ![Profile views](https://komarev.com/ghpvc/?username=isaactony&style=for-the-badge&color=blueviolet)
 
 ---
 
@@ -12,9 +12,9 @@
 
 | Focus | What I deliver | Tools |
 | --- | --- | --- |
-| 🗄️ **Data Engineering** | Streaming and batch pipelines, medallion (bronze/silver/gold) lakehouse layers, data lineage and audit trails, data contracts, analytics modeling | Kafka, Spark, Airflow, dbt, PostgreSQL, MinIO, Parquet, OpenLineage |
+| 🗄️ **Data Engineering** | Streaming and batch pipelines, medallion (bronze/silver/gold) lakehouse layers, tested dbt models, data lineage and audit trails, data contracts | Kafka, Spark, Airflow, dbt, PostgreSQL, DuckDB, MinIO, Parquet, OpenLineage |
 | ☁️ **Cloud & Infrastructure** | Infrastructure as Code on AWS, auto-scaling and self-healing systems, serverless event-driven apps, chaos engineering, monitoring and alerting | Terraform, AWS (EC2, ALB, ASG, Lambda, S3, CloudWatch, SNS, FIS, IAM, VPC), Docker |
-| ⚙️ **Platform & Backend** | Microservices with secure auth, message queues, caching, and CI/CD gates | Spring Boot, Kafka, Redis, Jenkins, Docker |
+| ⚙️ **Platform & CI/CD** | Microservices with secure auth, message queues, caching, and automated quality gates in CI | Spring Boot, Kafka, Redis, Jenkins, GitHub Actions, Docker |
 | ✍️ **Technical Writing** | Docs, tutorials, and articles that make data and cloud concepts easy to follow | Markdown, diagrams, runnable demos |
 
 ## 🧰 Toolbox
@@ -25,7 +25,7 @@
 
 **Data Engineering**
 
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white) ![Parquet](https://img.shields.io/badge/Parquet-50ABF1?style=flat-square&logo=apache&logoColor=white) ![OpenLineage](https://img.shields.io/badge/OpenLineage-4B5563?style=flat-square) ![Marquez](https://img.shields.io/badge/Marquez-1F2937?style=flat-square)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black) ![Parquet](https://img.shields.io/badge/Parquet-50ABF1?style=flat-square&logo=apache&logoColor=white) ![OpenLineage](https://img.shields.io/badge/OpenLineage-4B5563?style=flat-square) ![Marquez](https://img.shields.io/badge/Marquez-1F2937?style=flat-square)
 
 **Cloud & Infrastructure as Code**
 
@@ -37,7 +37,7 @@
 
 **DevOps & Backend**
 
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Make](https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=gnu&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Make](https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=gnu&logoColor=white)
 
 ## 🏗️ Featured Projects
 
@@ -73,29 +73,31 @@ A serverless, event-driven pipeline: drop an email into S3 and Lambda parses it,
 
 **Stack:** AWS Lambda · S3 · Amazon Comprehend · Terraform · Python
 
+### 🛍️ [Retail Customer Analytics](https://github.com/isaactony/retail-customer-analytics)
+
+Analytics engineering on the Contoso retail dataset (a 1M-order extract): a Python loader fills a PostgreSQL warehouse, dbt turns it into tested staging, intermediate, and mart layers, and Metabase dashboards are deployed as code. The whole thing is reproducible with Docker Compose and Make.
+
+**Stack:** dbt · PostgreSQL · Metabase · Docker · Python · Make
+
+[![Commercial performance dashboard](https://github.com/isaactony/retail-customer-analytics/raw/main/docs/images/commercial-performance.png)](https://github.com/isaactony/retail-customer-analytics)
+
 ### 🔎 [Data Lineage and Audit Trail](https://github.com/isaactony/DataLineage)
 
-A data governance project that captures lineage from eight example Python jobs (ETL, financial processing, data quality, ML, data lake ingestion, compliance) using OpenLineage, stores it in Marquez on PostgreSQL, and visualizes it as a live lineage graph. Ships with Docker Compose and a pytest suite.
+A data governance project that captures lineage from eight example Python jobs (ETL, financial processing, data quality, ML, data lake ingestion, compliance) using OpenLineage, stores it in Marquez on PostgreSQL, and visualizes it as a live lineage graph. Ships with Docker Compose, CI workflows, and a pytest suite.
 
-**Stack:** OpenLineage · Marquez · PostgreSQL · Docker · Python
+**Stack:** OpenLineage · Marquez · PostgreSQL · Docker · GitHub Actions · Python
 
 ### 🧾 [dbt Data Contracts Demo](https://github.com/isaactony/dbt_contracts)
 
-A small, runnable dbt project showing how a breaking schema change from a producer team gets caught in the pull request instead of surfacing days later in a downstream dashboard.
+A small, runnable dbt and DuckDB project showing how a breaking schema change from a producer team gets caught in the pull request by CI, instead of surfacing days later in a downstream dashboard.
 
-**Stack:** dbt · SQL · CI
+**Stack:** dbt · DuckDB · SQL · GitHub Actions
 
 ### 🗃️ [pgmigrate](https://github.com/isaactony/pg-migrate)
 
 A dependency-light CLI for versioned, reversible PostgreSQL migrations. Its dry-run runs the real migration inside a transaction and rolls it back, uses advisory locks to prevent racing deploys, validates checksums to detect drift, and refuses to fake safety for non-transactional statements like CREATE INDEX CONCURRENTLY.
 
 **Stack:** Python · PostgreSQL · SQL
-
-### 🛍️ [Retail Customer Analytics](https://github.com/isaactony/retail-customer-analytics)
-
-A Contoso retail analytics stack with an ingestion layer, a warehouse, dbt models, and a Metabase BI layer, all started with Docker Compose and Make.
-
-**Stack:** dbt · Metabase · Docker · Python
 
 ### 🧩 [Spring Boot Microservices Platform](https://github.com/isaactony/job-queue-system)
 
@@ -108,13 +110,9 @@ An 8-service microservices system with Eureka discovery, Config Server, an API G
 | | |
 | --- | --- |
 | 🧱 **Reliability first** | Health checks, retries, locks, transactions, and chaos tests so systems fail safely and recover fast |
-| 📐 **Production habits** | Infrastructure as Code, least-privilege IAM, tests, Docker-based reproducibility, and no secrets in git |
-| 🔍 **Data trust** | Lineage, contracts, and quality checks so teams can rely on their data |
+| 📐 **Production habits** | Infrastructure as Code, least-privilege IAM, tests, CI checks, Docker-based reproducibility, and no secrets in git |
+| 🔍 **Data trust** | Lineage, contracts, tested models, and quality checks so teams can rely on their data |
 | ✍️ **Clear communication** | Strong documentation and writing that makes complex systems easy to adopt |
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=isaactony&show_icons=true&theme=tokyonight&hide_border=true&count_private=true) ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isaactony&layout=compact&theme=tokyonight&hide_border=true)
 
 ## 📫 Let's Work Together
 
