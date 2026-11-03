@@ -4,7 +4,7 @@
 
 **I build reliable data platforms and self-healing cloud infrastructure, then explain them clearly.**
 
-![Open to work](https://img.shields.io/badge/Open%20to-Data%20%26%20Cloud%20Engineering%20Roles-2ea44f?style=for-the-badge) ![Remote](https://img.shields.io/badge/Remote-Available-0A66C2?style=for-the-badge) ![Upwork](https://img.shields.io/badge/Upwork-Freelancer-14a800?style=for-the-badge&logo=upwork&logoColor=white) [![X](https://img.shields.io/badge/X-@IsaacTonyloi-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/IsaacTonyloi) ![Followers](https://img.shields.io/github/followers/isaactony?style=for-the-badge&logo=github&label=Followers) ![Profile views](https://komarev.com/ghpvc/?username=isaactony&style=for-the-badge&color=blueviolet)
+![Open to work](https://img.shields.io/badge/Open%20to-Data%20%26%20Cloud%20Engineering%20Roles-2ea44f?style=for-the-badge) ![Remote](https://img.shields.io/badge/Remote-Available-0A66C2?style=for-the-badge) ![Upwork](https://img.shields.io/badge/Upwork-Freelancer-14a800?style=for-the-badge&logo=upwork&logoColor=white) [![X](https://img.shields.io/badge/X-@IsaacTonyloi-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/IsaacTonyloi) ![Followers](https://img.shields.io/github/followers/isaactony?style=for-the-badge&logo=github&label=Followers) ![Profile views](https://komarev.com/ghpvc/?username=isaactony&style=for-the-badge&color=blueviolet) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Isaac%20Tonyloi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaactonyloi/)
 
 ---
 
@@ -13,7 +13,7 @@
 | Focus | What I deliver | Tools |
 | --- | --- | --- |
 | 🗄️ **Data Engineering** | Streaming and batch pipelines, medallion (bronze/silver/gold) lakehouse layers, tested dbt models, data lineage and audit trails, data contracts | Kafka, Spark, Airflow, dbt, PostgreSQL, DuckDB, MinIO, Parquet, OpenLineage |
-| ☁️ **Cloud & Infrastructure** | Infrastructure as Code on AWS, auto-scaling and self-healing systems, serverless event-driven apps, chaos engineering, monitoring and alerting | Terraform, AWS (EC2, ALB, ASG, Lambda, S3, CloudWatch, SNS, FIS, IAM, VPC), Docker |
+| ☁️ **Cloud & Infrastructure** | Infrastructure as Code on AWS, auto-scaling and self-healing systems, serverless event-driven apps, chaos engineering, monitoring and alerting | Terraform, AWS (EC2, ALB, ASG, Lambda, S3, CloudWatch, SNS, FIS, IAM, VPC), Docker, Google Cloud (IAM, APIs) |
 | ⚙️ **Platform & CI/CD** | Microservices with secure auth, message queues, caching, and automated quality gates in CI | Spring Boot, Kafka, Redis, Jenkins, GitHub Actions, Docker |
 | ✍️ **Technical Writing** | Docs, tutorials, and articles that make data and cloud concepts easy to follow | Markdown, diagrams, runnable demos |
 
